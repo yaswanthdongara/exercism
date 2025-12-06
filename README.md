@@ -6,3 +6,7 @@
 - !(NOT)
 - &&(AND)
 - ||(OR)
+6. The two most common numeric types in Java are int and double. An int is a 32-bit integer and a double is a 64-bit floating-point number.
+7. Java has two types of numeric conversions:
+ - Implicit conversions: no data will be lost and no additional syntax is required.
+- Explicit conversions: data could be lost and additional syntax in the form of a cast is required.
