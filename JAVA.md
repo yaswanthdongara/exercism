@@ -212,3 +212,11 @@ Random random = new Random();
 random.nextDouble();
 // => 0.19250004204021398
 ```
+## List methods
+```
+List<String> fruits = new ArrayList<>();
+fruits.add("Apple");
+fruits.remove("Apple");
+fruits.contains("Apple");
+fruits.size();
+
